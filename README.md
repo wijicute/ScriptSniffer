@@ -1,6 +1,13 @@
-# Scriptsniffer
+# ScriptSniffer
 
-**Scriptsniffer** is a Python tool designed to extract all relative URLs (paths starting with `/`) from an online JavaScript file, convert them into absolute URLs, and save them into a text file named after the website's domain.
+**ScriptSniffer** is a Python tool designed to extract all relative URLs (paths starting with `/`) from an online JavaScript file, convert them into absolute URLs, and save them into a text file named after the website's domain.
+
+**Contact the Developer**
+- 💻 Telegram: @er4vnn & @rozesec
+  
+##
+![scriptsniffer](https://github.com/user-attachments/assets/99fa82de-2118-432a-8bb8-558d283554a6)
+
 
 ## 🚀 Features
 
@@ -29,6 +36,9 @@ Run the script and provide the URL of the JavaScript file when prompted:
    ```bash
    python3 scriptsniffer.py
    ```
+
+![Screenshot 2025-05-31 133812](https://github.com/user-attachments/assets/6552a0ab-6de2-4fbd-8f8a-4ce12fc5599f)
+
 Example:
 Enter the JavaScript file URL: https://example.com/script.js
 
