@@ -21,3 +21,18 @@
    ```bash
    git clone https://github.com/YourUsername/scriptsniffer.git
    cd scriptsniffer
+
+## ▶️ Usage
+
+Run the script and provide the URL of the JavaScript file when prompted:
+
+   ```bash
+   python3 scriptsniffer.py
+   ```
+Example:
+Enter the JavaScript file URL: https://example.com/script.js
+
+
+
+
+
